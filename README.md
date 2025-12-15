@@ -1,6 +1,2 @@
-<h1>🍴 Sabor Piauí</h1>
-<style>
-  h1{
-    text-align: center;
-  }
-</style>
+<h1 style="text-align: center;">🍴 Sabor Piauí</h1>
+
